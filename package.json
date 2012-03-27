@@ -1,0 +1,22 @@
+{
+  "name": "captchafy",
+  "version": "0.0.1",
+  "author": "Jesse Fulton <jesse.fulton@gmail.com> (http://jessefulton.com)",
+  "description": "Generate CAPTCHA-style images using node.js + Canvas",
+  "contributors": [
+    "Jesse Fulton <jessefulton@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jessefulton/node-captchafy.git"
+  },
+  "keywords": [
+    "captcha"
+  ],
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "main": "index"
+}
