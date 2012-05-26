@@ -1,1 +1,1 @@
-Node Captchafy is used to create "CAPTCHA" styled text images. Can be used client-side using node.js + Canvas, or directly on the client.
+Node Captchafy is used to create "CAPTCHA" styled text images. Can be used server-side using node.js + Canvas, or directly on the client.
